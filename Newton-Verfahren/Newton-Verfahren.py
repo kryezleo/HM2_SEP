@@ -41,5 +41,5 @@ while iterations < max_iter:
         break
 
 iterations, x
-print(iterations)
+print("Anzahl iterationen:", iterations)
 print(x)
